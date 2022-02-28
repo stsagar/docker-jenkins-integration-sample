@@ -1,0 +1,6 @@
+public class test {
+   
+    psv master(string[]) {
+	system.out.println("hello");
+    } 
+}
